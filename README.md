@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Gulina Tayier and I am a Full Stack Developer currently living in Los Angeles, California. I'm often working and coding out of cafes and am always changing up which cafe I visit!
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gulgina84)](https://github.com/anuraghazra/github-readme-stats)
