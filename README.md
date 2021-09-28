@@ -1,5 +1,5 @@
 ![Profile views](https://gpvc.arturio.dev/gulgina84)
-### ✨ Hi there 👋 I am Gi 
+### ✨ Hi there 👋  I am Gi 
 
 #### ✨ I am a Full Stack Developer
 
