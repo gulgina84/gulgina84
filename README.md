@@ -2,8 +2,11 @@
 ### Hi there 👋 I am Gi 
 
 #### I am a Full Stack Developer
+
 - 🌮 📿 🧡 in Los Angeles 
-- 🌞 I am a creator, foodie, dog mom 🐶  and an unprofessional baker 
+
+- 🌞 I am a creator, foodie, dog mom 🐶  and an unprofessional baker
+
 - 🌱 I’m currently learning everything 🤓
 
 ### Connect with me:
