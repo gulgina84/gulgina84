@@ -40,8 +40,13 @@
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gulgina84)](https://github.com/anuraghazra/github-readme-stats)
 
+### ✨ Activities:
+<br />
+<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gulgina84)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+<br />
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gulgina84&show_icons=true)  
 
 
