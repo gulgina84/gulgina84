@@ -1,7 +1,7 @@
 ![Profile views](https://gpvc.arturio.dev/gulgina84)
-### Hi there 👋 I am Gi 
+### ✨ Hi there 👋 I am Gi 
 
-#### I am a Full Stack Developer
+#### ✨ I am a Full Stack Developer
 
 - 🌮 📿 🧡 in Los Angeles 
 
@@ -13,14 +13,14 @@
 <br />
 <br />
 
-### Connect with me:
+### ✨ Connect with me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/gulgina84)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/gulina-tayier-bjla//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCDUVdpgXZg4j8Nd3mZWUfyw)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/giiiiiiiiiiii_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/wechat.svg' alt='wechat' height='40'>](gulgina84)  
 
 <br />
 <br />
 <br />
 
-### Languages and Tools:
+### ✨ Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
