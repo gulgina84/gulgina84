@@ -3,7 +3,7 @@
 
 #### ✨ I am a Full Stack Developer
 
-- 🌮  📿  🧡   ````` **</>**````` in Los Angeles 
+- 🌮  📿  🧡    **</>** in Los Angeles 
 
 - 🌞 I am a creator, foodie, dog mom 🐶  and an unprofessional baker 👩🏻‍🍳
 
