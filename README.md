@@ -5,9 +5,9 @@
 
 - 🌮 📿 🧡 ```&& </>``` in Los Angeles 
 
-- 🌞 I am a creator, foodie, dog mom 🐶  and an unprofessional baker
+- 🌞 I am a creator, foodie, dog mom 🐶  and an unprofessional baker 👩🏻‍🍳
 
-- 🌱 I’m currently learning everything 🤓
+- 🌱 I’m currently learning everything 🤓 🤣
 
 <br />
 
