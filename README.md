@@ -1,9 +1,9 @@
 ![Profile views](https://gpvc.arturio.dev/gulgina84)
-### ✨  Hi there  👋    I am Gi 
+### ✨  Hi there  👋  I am Gi 
 
 #### ✨  I am a Full Stack Developer
 
-- 🌮    📿    🧡      **</>**   in Los Angeles 
+- 🌮    📿    🧡   ```</>```   in Los Angeles 
 
 - 🌞   I am a creator, foodie, dog mom 🐶  and an unprofessional baker 👩🏻‍🍳
 
