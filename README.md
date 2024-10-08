@@ -3,14 +3,6 @@
 
 #### ✨  I am an experienced Software Engineer working in the Tech industry for 3 years now. 
 
-#### Here are some **highlights** of my background: 
-- I came from a law background, mastered **IP Law**, and worked as a **corporate lawyer** in China.
-- Landed my first SDE job after only **6 months** of studying in a coding boot camp after moving to USA.
-- After 1 year of working in tech, got offers from multiple tech companies and nearly **tripled** my compensation.
-- Went from SDE I to SDE II with **2 years** of total experience in coding.
-
-Didn't mean to brag, but hey, it's all part of **Marketing**! lol
-
 <br />
 
 ### ✨ Connect with me:
